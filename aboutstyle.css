@@ -1,0 +1,44 @@
+*{
+padding: 0;
+margin: 0;
+font-family: sans-serif;
+}
+body{
+background: url('https://marketingaccesspass.com/wp-content/uploads/2015/10/Podcast-Website-Design-Background-Image.jpg') no-repeat;
+background-size: cover;
+}
+.about {
+height: 100%;
+diplay: flex;
+align-items: center;
+margin-left:540px;
+margin-top:50px;
+font-size: 60px; 
+justify-content: center;
+align-items: center;
+}
+p1{
+margin: 30px;
+color: orange;
+}
+p2{
+margin-left:215px;
+font-size: 30px;
+}
+.text{
+font-size: 20px;
+margin-left:640px;
+margin-right:350px;
+}
+input[type="submit"]
+{
+border: none;
+outline: none;
+height: 40px;
+background: red;
+color: #fff;
+font-size: 18px;
+border-radius: 20px;
+width: 350px;
+margin-left:700px;
+margin-top:50px;}
